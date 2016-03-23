@@ -10,7 +10,7 @@ int main(void) {
     int counter = 0; 
 
     printf("Guess my number! "); 
-
+printf("this is modificatfed by robin ");//user Robin01aug
     do {
         scanf("%d", &guess);
         if (guess == r) {
