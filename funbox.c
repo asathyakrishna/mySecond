@@ -10,6 +10,8 @@ int main(void) {
     int counter = 0; 
 
     printf("Guess my number! "); 
+
+printf("this is modified by me");//modified by spabba1
 printf("this is modificatfed by robin ");//user Robin01aug
     do {
         scanf("%d", &guess);
