@@ -15,7 +15,8 @@ int main(void) {
         scanf("%d", &guess);
         if (guess == r) {
             counter++;
-            printf("You guessed correctly in %d tries! Congratulations!\n", counter);
+	    printf("this is modified");//basic print statement for changes
+            printf("You guessed correctly in %d tries! Congratulations!\n", counter);//its gives correct guess
             correct = 1; 
         }
 
